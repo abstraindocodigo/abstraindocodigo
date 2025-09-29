@@ -18,6 +18,7 @@ Atuo como **desenvolvedor fullstack**, mas meu **foco principal é o backend** �
 * **TypeScript**
 * **PHP**
 * **Vue.js**
+* **ReactJs**
 * **Tailwind CSS**
 
 ### 🛠️ Upgrade
