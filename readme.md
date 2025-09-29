@@ -44,7 +44,7 @@ Atuo como **desenvolvedor fullstack**, mas meu **foco principal é o backend** �
 
 Você pode entrar em contato comigo por:
 
-* LinkedIn: [Visualizar](https://www.linkedin.com/in/lucas-mateus-077b82220/) 
+* LinkedIn: [Visualizar](https://www.linkedin.com/in/lucas-mateus-a8235037a/) 
 * E-mail: [abstraindocodigo@gmail.com](abstraindocodigo@gmail.com)
 
 ---
